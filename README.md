@@ -13,21 +13,23 @@ the first player adds one part of the torso to the gallows (usually there are 6 
 
 - **Board Display**: Shows the current state of the board.
 - **Player moves**: a player enters his word, the second one guesses this word
-- **Winner and Tie Checks**: Determines whether the player has won or lost
+- **Winner and Loss Checks**: Determines whether the player has won or lost
 - **Score Tracking**: Reads and writes win-loss statistics from/to a file.
 - **Saving logs** Saves all actions that were performed in the game
 
 ## Code Examples
 ## Gallows State
 
-![Image alt](https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/1243124123.PNG?raw=true)
+![Image](https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/1243124123.PNG?raw=true)
 
 ## Checking the guessed word
 
-
+![Image](https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/23123123.PNG?raw=true)
 
 ## Counts number of wins
 
-
+![Image](https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/12353545341.PNG?raw=true)
 
 ## Basic game logic
+![Image](https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/56756321.PNG?raw=true)
+![Image](https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/8634563452.PNG?raw=true)
