@@ -20,7 +20,7 @@ the first player adds one part of the torso to the gallows (usually there are 6 
 ## Code Examples
 ## Gallows State
 
-![Image alt]([https://https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/1243124123.PNG)
+![Image alt](https://github.com/Znesik52/-Practice/blob/Znesik52-patch-1/1243124123.PNG?raw=true)
 
 ## Checking the guessed word
 
