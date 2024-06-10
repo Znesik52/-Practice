@@ -11,13 +11,23 @@ the first player adds one part of the torso to the gallows (usually there are 6 
 
 ## Features
 
-**Отображение доски**: показывает текущее состояние доски.
-**Ходы игроков**: игрок вводит свое слово  , второй угадывает это слово
-**Проверки победителя и ничьи**: определяет, выиграл ли игрок или проиграл
-**Отслеживание очков**: считывает и записывает статистику выигрышей-поражений из/в файл.
-**Сохранение логов** Сохраняет все дейстия которые были произведены в игре
+- **Board Display**: Shows the current state of the board.
+- **Player moves**: a player enters his word, the second one guesses this word
+- **Winner and Tie Checks**: Determines whether the player has won or lost
+- **Score Tracking**: Reads and writes win-loss statistics from/to a file.
+- **Saving logs** Saves all actions that were performed in the game
 
 ## Code Examples
 ## Gallows State
 
-![image](https://github.com/Znesik52/-Practice/assets/image/1234567)
+
+
+## Checking the guessed word
+
+
+
+## Counts number of wins
+
+
+
+## Basic game logic
